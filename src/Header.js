@@ -14,7 +14,8 @@ function Header() {
             
             <img
                 className="header__logo"
-                src="https://logos-world.net/wp-content/uploads/2020/09/Tinder-Emblem.png"
+                // src="https://logos-world.net/wp-content/uploads/2020/09/Tinder-Emblem.png"
+                src = "https://www.logolynx.com/images/logolynx/8d/8d20af5534344d0f4541a13765aca852.jpeg"
                 alt=""
             />
             <IconButton>
